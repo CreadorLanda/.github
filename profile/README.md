@@ -1,6 +1,7 @@
 
-<img src="./me.png" width="120" style="border-radius: 50%;" />
-<!-- HEADER -->
+<div align="center">
+  <img src="./me.png" width="280" />
+</div>
 
 <div align="center">
 
