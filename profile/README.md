@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./me.png" width="400" />
+  <img src="./profile/me.png" width="400" />
 </div>
 
 <div align="center">
