@@ -27,8 +27,8 @@ name        : Alexandre Landa
 alias       : CreadorLanda
 role        : Founder & CEO — SkylineTech
 location    : Luanda, Angola
-focus       : AI products for the African & lusophone market
-stack       : Go · Rust · TypeScript · Python · Flutter · React
+focus       : AI products for the African  market
+stack       : Mobile · Desktop · Web · AI
 ```
 
 ---
