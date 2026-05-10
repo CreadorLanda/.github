@@ -13,8 +13,8 @@
 
 [![Portfolio](https://img.shields.io/badge/alexandrelanda.com-0d1b2a?style=for-the-badge&logo=safari&logoColor=00c8ff)](https://alexandrelanda.com)&nbsp;
 [![SkylineTech](https://img.shields.io/badge/SkylineTech-0d1b2a?style=for-the-badge&logo=rocket&logoColor=00c8ff)](https://skylinetechone.com)&nbsp;
-[![Email](https://img.shields.io/badge/alex@skylinetech.ao-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00c8ff)](mailto:creadorlanda@gmail.com)
-[![Email](https://img.shields.io/badge/alex@skylinetech.ao-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00c8ff)](mailto:me@alexandrelanda.com)
+[![Email](https://img.shields.io/badge/creadorlanda@gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00c8ff)](mailto:creadorlanda@gmail.com)
+[![Email](https://img.shields.io/badge/me@alexandrelanda.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00c8ff)](mailto:me@alexandrelanda.com)
 
 </div>
 
