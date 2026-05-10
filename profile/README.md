@@ -1,4 +1,7 @@
+
+<img src="./me.png" width="120" style="border-radius: 50%;" />
 <!-- HEADER -->
+
 <div align="center">
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:0d1b2a,100:00c8ff&height=210&section=header&text=Alexandre%20Landa&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20SkylineTech%20%E2%80%94%20Luanda%2C%20Angola&descAlignY=58&descSize=15&animation=fadeIn)](https://alexandrelanda.com)
