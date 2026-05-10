@@ -12,8 +12,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/alexandrelanda.com-0d1b2a?style=for-the-badge&logo=safari&logoColor=00c8ff)](https://alexandrelanda.com)&nbsp;
-[![SkylineTech](https://img.shields.io/badge/SkylineTech-0d1b2a?style=for-the-badge&logo=rocket&logoColor=00c8ff)](https://skylinetech.ao)&nbsp;
-[![Email](https://img.shields.io/badge/alex@skylinetech.ao-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00c8ff)](mailto:alex@skylinetech.ao)
+[![SkylineTech](https://img.shields.io/badge/SkylineTech-0d1b2a?style=for-the-badge&logo=rocket&logoColor=00c8ff)](https://skylinetechone.com)&nbsp;
+[![Email](https://img.shields.io/badge/alex@skylinetech.ao-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00c8ff)](mailto:creadorlanda@gmail.com)
+[![Email](https://img.shields.io/badge/alex@skylinetech.ao-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00c8ff)](mailto:me@alexandrelanda.com)
 
 </div>
 
@@ -46,7 +47,7 @@ Autonomous AI sales agent with WhatsApp integration, Multicaixa Express payments
 
 `Go` · `TypeScript` · `LangGraph` · `WhatsApp API`
 
-[![Status](https://img.shields.io/badge/status-live-00c8ff?style=flat-square)](https://github.com/CreadorLanda)
+[![Status](https://img.shields.io/badge/status-live-00c8ff?style=flat-square)](https://github.com/SkylineTech-One/DandaraAI)
 
 </td>
 <td align="center" width="33%">
