@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:0d1b2a,100:00c8ff&height=210&section=header&text=Alexandre%20Landa&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20SkylineTech%20%E2%80%94%20Luanda%2C%20Angola&descAlignY=58&descSize=15&animation=fadeIn)](https://alexandrelanda.com)
+[![MORE ABOUT ME](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:0d1b2a,100:00c8ff&height=210&section=header&text=Alexandre%20Landa&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20SkylineTech%20%E2%80%94%20Luanda%2C%20Angola&descAlignY=58&descSize=15&animation=fadeIn)](https://alexandrelanda.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00C8FF&center=true&vCenter=true&width=680&lines=Building+Africa%27s+AI+ecosystem;Full+Stack+%7C+DevOps+%7C+AI%2FML+%7C+Security;Go+%7C+Rust+%7C+TypeScript+%7C+Flutter;Luanda+%E2%86%92+Africa+%E2%86%92+World)](https://alexandrelanda.com)
 
