@@ -113,6 +113,19 @@ Statically-typed, LLVM-compiled fullstack language with a reactive Flux system a
 
 </div>
 
+---
+
+## `> github-profile-score`
+
+<div align="center">
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CreadorLanda&theme=github_dark)](https://github.com/CreadorLanda)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=CreadorLanda&style=for-the-badge&color=0d1b2a&label=PROFILE+VIEWS)](https://github.com/CreadorLanda)
+
+</div>
+
+
 <div align="center">
 
 ![Streak](https://streak-stats.demolab.com?user=CreadorLanda&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff)
