@@ -115,13 +115,7 @@ Statically-typed, LLVM-compiled fullstack language with a reactive Flux system a
 
 ---
 
-## `> github_rank`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CreadorLanda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=00c8ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="180" />
-
-</div>
 
 
 ## `> github-profile-score`
